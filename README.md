@@ -9,4 +9,8 @@ Welcome to my SQL Learning Journey! This repository documents my exploration of 
 - **Projects**: Demonstrations of my SQL skills
 - **Resources**: Helpful links and tutorials
 
+## Learn More
+
+For additional resources, check out [this link](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=18s&ab_channel=freeCodeCamp.org).
+
 Happy learning!
