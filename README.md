@@ -1,0 +1,2 @@
+# SQL-learning
+ my SQL Learning Journey! This repository chronicles my personal exploration and growth in mastering SQL, a vital language for working with relational databases. It serves as a documentation of my learning process, where I record my progress, engage in practice through exercises and challenges, and share small projects that demonstrate my growing SQL skills. Additionally, I curate helpful tutorials, articles, and tools that I discover along the way.
