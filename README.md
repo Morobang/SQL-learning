@@ -8,12 +8,28 @@ This repository captures my personal exploration and understanding of SQL. Here,
 
 ## AdventureWorks Database
 
-I chose the AdventureWorks database for its rich dataset and variety of tables, which provide ample opportunities to practice different SQL concepts. This includes working with:
+I chose the AdventureWorks database for its rich dataset and variety of tables, which provide ample opportunities to practice different SQL concepts.
 
-- Product information
-- Customer data
-- Sales transactions
-- Employee records
+## Learning Resources
+
+### Video Tutorials
+
+1. **Installing Sample Data**:
+   - [AdventureWorks Installation](https://www.youtube.com/watch?v=bAlQfpjPOEA&ab_channel=SQLServer101): This video helped me install the AdventureWorks sample database.
+
+2. **Basic SQL Concepts**:
+   - [SQL Basics](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=6s&ab_channel=freeCodeCamp.org): I used this video to learn some foundational SQL concepts.
+
+### Online Courses
+
+- **Data Analysis Course**:
+  - [Intermediate and Advanced SQL Queries](https://www.udemy.com/share/10bEjb3@fkxdM1LZ_VOt4g4DFSU_Qx9RZGRQGEGfdGV83inbqoF29N9kVpIqSvSTgcMbTk-kFw==/): This course has been instrumental in enhancing my skills in intermediate and advanced SQL queries.
+
+### Additional Resources
+
+- **W3Schools**: I referred to W3Schools to clarify concepts when I was confused.
+  
+- **SQLZoo**: I practiced running complex queries using the [SQLZoo Tutorial](https://www.sqlzoo.net/wiki/SQL_Tutorial).
 
 ## Learning Sections
 
